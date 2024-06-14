@@ -1,6 +1,0 @@
-Ola Mundo
-
-Este é um aequivo escrito no editor de codigo nano
-
-para voce salvar o arquivo digite CTRL + O
-Sair CTRL + X + Y
