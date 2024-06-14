@@ -589,7 +589,7 @@ while true; do
         cat ip.txt >> $cwd/ips.txt
         cat username.txt >> $cwd/usernames.txt
         rm -rf ip.txt
-        rm -rf username.txt
+        rm -rf username.txt  
     fi
     sleep 0.5
     if [[ -e "log.txt" ]]; then
